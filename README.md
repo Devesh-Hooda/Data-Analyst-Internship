@@ -50,6 +50,8 @@ All models evaluated on: Accuracy, Precision, Recall, F1-Score, Confusion Matrix
 
 ## Results and Business Recommendations
 
+![](https://github.com/Devesh-Hooda/Data-Analyst-Internship/blob/main/All_Parameters.png)
+
 ### Model Performance Comparison
 
 | Model                | Accuracy | Precision | Recall | F1-Score |
